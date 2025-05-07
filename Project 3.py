@@ -31,3 +31,11 @@ angka = "100"
 angkatoint = int(angka)
 print(angkatoint)
 print(type(angkatoint))
+Negara_Indonesia = ['Jakarta', 'Bekasi', 'Bogor', 'Bandung', 'Surabaya', 'Samarinda']
+print(Negara_Indonesia)
+print(type(Negara_Indonesia))
+
+Bahasa_komputer = ['Python', 'C++', 'LUA', 'Java', 'Javascript']
+print(Bahasa_komputer)
+print(type(Bahasa_komputer))
+print(Bahasa_komputer[0])
