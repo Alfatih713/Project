@@ -1,5 +1,5 @@
 #Sambutan
-print("Selamat datang di kalkulator! silahkan")
+print("Selamat datang di Kalkulator Plus! silahkan")
 
 
 #Input
